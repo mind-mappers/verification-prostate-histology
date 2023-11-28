@@ -1,0 +1,7 @@
+{
+    "parent_dir": "./homologous_point_prediction/data/",
+    "include_patients": ["1142","1137", "1118", "1102", "1188", "1154", "1122"],
+    "augment_rotation_range": [0, 0],
+    "use_masked": false,
+    "use_warped_pairs": false
+}

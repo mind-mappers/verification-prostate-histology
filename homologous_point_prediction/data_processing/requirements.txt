@@ -1,0 +1,6 @@
+numpy==1.19.5
+scipy==1.6.0
+opencv_python
+matplotlib
+nibabel
+pandas

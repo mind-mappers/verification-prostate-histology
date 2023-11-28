@@ -1,0 +1,1 @@
+git+ssh://git@gitlab.com/mcw_laviolette_lab/mri_histology_toolkit.git

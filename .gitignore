@@ -1,0 +1,25 @@
+# Python Environments
+env/
+*.pyc
+__pycache__/
+.pytest_cache
+.ipynb_checkpoints/
+rescaled_data/
+edge_data/
+multipoint_data_pruned/
+pruned_data/
+pruned_data_2/
+
+*.png
+# Data
+homologous_point_prediction/data/
+homologous_point_prediction/pretraining_data/
+homologous_point_prediction/multipoint_data/
+homologous_point_prediction/multipoint_data_aug/
+# Ignore all log files for running jobs
+homologous_point_prediction/outputs/running/*
+!dummy.txt
+
+# Ignore all folder with completed runs
+homologous_point_prediction/outputs/*|*
+homologous_point_prediction/outputs/*_*
